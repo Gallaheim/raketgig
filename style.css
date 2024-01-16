@@ -1,0 +1,117 @@
+html{
+    background: rgb(2, 2, 27);
+
+}
+#raketgig{
+    color:aliceblue;font-family: 'Fjalla One', sans-serif;
+    font-size: 3rem;
+    margin-left: 25%;
+    margin-bottom: 0;
+}
+
+span.name {
+    color: rgb(252, 215, 6);
+    ;font-family: 'Fjalla One', sans-serif;
+}
+
+#slogan{
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 5px;
+    margin-left: 25%;
+    margin-bottom: 3%;
+}
+
+#containerads{
+    align-items: center;
+    float: left;
+    margin-left: 25%;
+}
+#ads1{
+    float: left;
+}
+#ads2{
+    float: left;
+    margin-top: 1px;
+}
+#ads3{
+    float: left;
+}
+
+#container1{
+    align-items: center;
+    float: left;
+    margin-left: 25%;
+}
+
+#live{
+    color: aliceblue;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 2rem;
+    margin-top: 15%;
+    margin-left: 25%;
+    margin-bottom: 20px;
+}
+
+#bennben{
+    color: aliceblue;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 1.5rem;
+    float: left;
+    padding: 5px;
+}
+
+#kz{
+    color: aliceblue;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 1.5rem;
+    float: left;
+    padding: 5px;
+}
+
+#lolamour{
+    color: aliceblue;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 1.5rem;
+    float: left;
+    padding: 5px;
+}
+
+#container2{
+    align-items: center;
+    float: left;
+    margin-left: 25%;
+}   
+
+#featured{
+    color: aliceblue;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 2rem;
+    margin-top: 15%;
+    margin-left: 25%;
+    margin-bottom: 20px;
+}
+
+#parokya{
+    color: aliceblue;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 1.5rem;
+    float: left;
+    padding: 5px;
+
+
+}
+#kazee{
+    color: aliceblue;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 1.5rem;
+    float: left;
+    padding: 5px;
+}
+#shanti{
+    color: aliceblue;
+    font-family: 'Fjalla One', sans-serif;
+    float: left;
+    padding: 5px;
+    font-size: 1.5rem;
+}
